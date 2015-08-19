@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "name": {
+        "de": "Mein Produkt",
+        "en": "My Product"
+      },
+      "masterVariant": {
+        "sku": "123abc",
+        "total": 1,
+        "stocks": [
+          {
+            "sku": "123abc",
+            "quantity": 3,
+            "channel": {
+              "key": "market-123"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
