@@ -1,0 +1,18 @@
+{
+  "prices": [
+    {
+      "sku": "123abc",
+      "prices": [
+        {
+          "value": {
+            "centAmount": 123,
+            "currencyCode": "EUR"
+          },
+          "channel": {
+            "key": "market-123"
+          }
+        }
+      ]
+    }
+  ]
+}

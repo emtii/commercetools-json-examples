@@ -1,0 +1,20 @@
+{
+  "prices": [
+    {
+      "sku": "123abc",
+      "prices": [
+        {
+          "value": {
+            "centAmount": 123,
+            "currencyCode": "EUR"
+          },
+          "validFrom": "1985-10-29T00:00:00Z",
+          "validUntil": "2015-12-31T23:59:59Z",
+          "channel": {
+            "key": "market-123"
+          }
+        }
+      ]
+    }
+  ]
+}
