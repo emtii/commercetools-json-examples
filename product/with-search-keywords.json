@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": {
+        "de": "Mein Produkt",
+        "en": "My Product"
+      },
+      "masterVariant": {
+        "sku": "123abc",
+        "searchKeywords": {
+          "de": [
+            {
+              "text": "Foobar Produktbeschreibung.", // cpg15x_pictures.title
+              "suggestTokenizer": {
+                "type": "whitespace"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
+
