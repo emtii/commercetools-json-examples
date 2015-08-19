@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "name": {
+        "de": "Mein Produkt",
+        "en": "My Product"
+      },
+      "masterVariant": {
+        "sku": "123abc",
+        "images": [
+          {
+            "url": "http://my.custom.cdn.net/123abc-myproduct-original.png",
+            "label": "Image Original",
+            "dimensions": {
+              "w": 1000,
+              "h": 1000
+            }
+          },
+          {
+            "url": "http://my.custom.cdn.net/123abc-myproduct-large.png",
+            "label": "Image Thumbnail-Large",
+            "dimensions": {
+              "w": 800,
+              "h": 800
+            }
+          },
+          {
+            "url": "http://my.custom.cdn.net/123abc-myproduct-medium.png",
+            "label": "Image Thumbnail-Medium",
+            "dimensions": {
+              "w": 800,
+              "h": 800
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

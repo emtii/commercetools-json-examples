@@ -1,0 +1,25 @@
+{
+  "total": 1,
+  "products": [
+    {
+      "name": {
+        "de": "Mein Produkt",
+        "en": "My Product"
+      },
+      "masterVariant":
+      {
+        "sku": "123abc"
+      },
+      "variants": [
+        {
+          "id": 2,
+          "sku": "456abc"
+        },
+        {
+          "id": 3,
+          "sku": "345abc"
+        }
+      ]
+    }
+  ]
+}
