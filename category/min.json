@@ -1,0 +1,15 @@
+{
+  "total": 1,
+  "categories": [
+    {
+      "name": {
+        "de": "Hauptkategorie",
+        "en": "root"
+      },
+      "slug": {
+        "de": "hauptkategorie",
+        "en": "root"
+      }
+    }
+  ]
+}
