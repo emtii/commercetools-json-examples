@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": {
+        "de": "Mein Produkt",
+        "en": "My Product"
+      },
+      "masterVariant": {
+        "sku": "123abc",
+        "slug": {
+          "de": "mein-produkt-123abc",
+          "en": "my-product-123abc"
+        }
+      }
+    }
+  ]
+}
+
+

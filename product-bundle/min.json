@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": "<snowboard-bundle-product-id>",
+      "version": 1,
+      "productType": {
+        "typeId": "product-type",
+        "id": "<snowboard-bundle-product-type-id>"
+      },
+      "name": {
+        "de": "Mein Produkt",
+        "en": "My Product"
+      },
+      "masterVariant": {
+        "id": 1,
+        "sku": "123abc",
+        "attributes": [
+          {
+            "name": "board",
+            "value": {
+              "typeId": "product",
+              "id": "<snowboard-Feather-56-product-id>"
+            }
+          },
+          {
+            "name": "binding",
+            "value": {
+              "typeId": "product",
+              "id": "<binding-Cartel-R-product-id>"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

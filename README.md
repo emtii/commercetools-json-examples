@@ -11,3 +11,12 @@ If you find something changed or missing, feel free to add push changes, I gonna
 
 Thx,
 Emtii
+
+
+
+List of References and Resources:
+* http://dev.sphere.io/
+* http://dev.sphere.io/tutorial-product-bundle.html
+* http://dev.sphere.io/tutorials-nested-types.html
+* https://github.com/sphereio/sphere-json-schemas
+* https://github.com/sphereio/sphere-api-reference
