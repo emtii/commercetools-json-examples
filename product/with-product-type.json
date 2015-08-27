@@ -1,17 +1,13 @@
 {
-  "products": [
-    {
-      "productType": {
-        "typeId": "product-type",
-        "id": "24f510c3-f334-4099-94e2-d6224a8eb919"
-      },
-      "name": {
-        "de": "Mein Produkt",
-        "en": "My Product"
-      },
-      "masterVariant": {
-        "sku": "123abc"
-      }
-    }
-  ]
+  "productType": {
+    "typeId": "product-type",
+    "id": "24f510c3-f334-4099-94e2-d6224a8eb919"
+  },
+  "name": {
+    "de": "Mein Produkt",
+    "en": "My Product"
+  },
+  "masterVariant": {
+    "sku": "123abc"
+  }
 }

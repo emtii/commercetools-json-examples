@@ -1,23 +1,19 @@
 {
-  "products": [
-    {
-      "name": {
-        "de": "Mein Produkt",
-        "en": "My Product"
+  "name": {
+    "de": "Mein Produkt",
+    "en": "My Product"
+  },
+  "masterVariant": {
+    "sku": "123abc",
+    "attributes": [
+      {
+        "name": "taste",
+        "value": "excellent!"
       },
-      "masterVariant": {
-        "sku": "123abc",
-        "attributes": [
-          {
-            "name": "taste",
-            "value": "excellent!"
-          },
-          {
-            "name": "quantityContained",
-            "value": 1.4
-          }
-        ]
+      {
+        "name": "quantityContained",
+        "value": 1.4
       }
-    }
-  ]
+    ]
+  }
 }

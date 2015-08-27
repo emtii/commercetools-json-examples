@@ -1,23 +1,19 @@
 {
-  "products": [
-    {
-      "name": {
-        "de": "Mein Produkt",
-        "en": "My Product"
+  "name": {
+    "de": "Mein Produkt",
+    "en": "My Product"
+  },
+  "masterVariant": {
+    "sku": "123abc",
+    "categories": [
+      {
+        "typeId": "category",
+        "id": "d1229e6f-2b79-441e-b419-180311e52754"
       },
-      "masterVariant": {
-        "sku": "123abc",
-        "categories": [
-          {
-            "typeId": "category",
-            "id": "d1229e6f-2b79-441e-b419-180311e52754"
-          },
-          {
-            "typeId": "category",
-            "id": "dawda134-wdas-grg1-hdh1-bsgesg3daqd4"
-          }
-        ]
+      {
+        "typeId": "category",
+        "id": "dawda134-wdas-grg1-hdh1-bsgesg3daqd4"
       }
-    }
-  ]
+    ]
+  }
 }

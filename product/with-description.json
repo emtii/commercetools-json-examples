@@ -1,19 +1,15 @@
 {
-  "products": [
-    {
-      "name": {
-        "de": "Mein Produkt",
-        "en": "My Product"
-      },
-      "masterVariant": {
-        "sku": "123abc",
-        "description": {
-          "de": "Foobar Produktbeschreibung.",
-          "en": "Foobar product description here."
-        }
-      }
+  "name": {
+    "de": "Mein Produkt",
+    "en": "My Product"
+  },
+  "masterVariant": {
+    "sku": "123abc",
+    "description": {
+      "de": "Foobar Produktbeschreibung.",
+      "en": "Foobar product description here."
     }
-  ]
+  }
 }
 
 

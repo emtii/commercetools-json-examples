@@ -1,23 +1,19 @@
 {
-  "products": [
-    {
-      "name": {
-        "de": "Mein Produkt",
-        "en": "My Product"
-      },
-      "masterVariant": {
+  "name": {
+    "de": "Mein Produkt",
+    "en": "My Product"
+  },
+  "masterVariant": {
+    "sku": "123abc",
+    "total": 1,
+    "stocks": [
+      {
         "sku": "123abc",
-        "total": 1,
-        "stocks": [
-          {
-            "sku": "123abc",
-            "quantity": 3,
-            "channel": {
-              "key": "market-123"
-            }
-          }
-        ]
+        "quantity": 3,
+        "channel": {
+          "key": "market-123"
+        }
       }
-    }
-  ]
+    ]
+  }
 }

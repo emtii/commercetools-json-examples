@@ -1,40 +1,36 @@
 {
-  "products": [
-    {
-      "name": {
-        "de": "Mein Produkt",
-        "en": "My Product"
+  "name": {
+    "de": "Mein Produkt",
+    "en": "My Product"
+  },
+  "masterVariant": {
+    "sku": "123abc",
+    "attributes": [
+      {
+        "name": "taste",
+        "value": "excellent!"
       },
-      "masterVariant": {
-        "sku": "123abc",
-        "attributes": [
+      {
+        "name": "nutrients",
+        "value": [
           {
-            "name": "taste",
-            "value": "excellent!"
+            "name": "quantityContained",
+            "value": 1.4
           },
           {
-            "name": "nutrients",
-            "value": [
-              {
-                "name": "quantityContained",
-                "value": 1.4
-              },
-              {
-                "name": "nutrientTypeCode",
-                "value": "FAT"
-              },
-              {
-                "name": "quantityContained",
-                "value": 1.15
-              },
-              {
-                "name": "nutrientTypeCode",
-                "value": "SUGAR"
-              }
-            ]
+            "name": "nutrientTypeCode",
+            "value": "FAT"
+          },
+          {
+            "name": "quantityContained",
+            "value": 1.15
+          },
+          {
+            "name": "nutrientTypeCode",
+            "value": "SUGAR"
           }
         ]
       }
-    }
-  ]
+    ]
+  }
 }
