@@ -1,0 +1,18 @@
+{
+  "productType": {
+    "typeId": "product-type",
+    "id": "9e583ccc-5a62-4193-8f21-89d1561f6824"
+  },
+  "name": {
+    "de": "product-sync-test-product-1"
+  },
+  "slug": {
+    "de": "product-sync-test-product-1"
+  },
+  "categories": [
+    {
+      "typeId": "category",
+      "id": 2
+    }
+  ]
+}
