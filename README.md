@@ -6,7 +6,7 @@ and found different resources for the json payloads of this wonderful api.
 To give myself a better understanding of commercetools and my development team a better resource to look into I just
 started creating this repository. Its basically an aggregation of every (currently) available resource.
 
-If you find something changed or missing, feel free to add push changes, I gonna merge them.
+If you find something changed or missing, feel free to push changes, I gonna merge them.
 
 
 Thx,
